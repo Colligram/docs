@@ -253,7 +253,7 @@ $ docker push docker.pkg.github.com/octocat/octo-app/monalisa:1.0
 # Assumes Dockerfile resides in the current working directory (.)
 $ docker build -t docker.HOSTNAME/octocat/octo-app/monalisa:1.0 .
 
-# Push the image to {% data variables.product.prodname_registry %}
+# Push the image to {% data variables.product.productname_registry %}
 $ docker push docker.HOSTNAME/octocat/octo-app/monalisa:1.0
 ```
 
